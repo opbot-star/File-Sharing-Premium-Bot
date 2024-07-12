@@ -21,8 +21,8 @@ API_HASH = os.environ.get("API_HASH", "e3968e1fc96531770e2783c0f03cf04d")
 
 OWNER = os.environ.get("OWNER", "iplreport_20") #Owner username
 OWNER_ID = int(os.environ.get("OWNER_ID", "1200226417")) #Owner user id
-DB_URL = os.environ.get("DB_URL", "")
-DB_NAME = os.environ.get("DB_NAME", "madflixbotz")
+DB_URL = os.environ.get("DB_URL", "13455abcdh:5ZCsZx3Q1uHnc5Ni@cluster0.izc9igo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_NAME = os.environ.get("DB_NAME", "pvtkotha")
 
 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002216951367"))
